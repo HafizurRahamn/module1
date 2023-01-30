@@ -1,1 +1,10 @@
-Hi, I am Md Hafizur Rahman
+1. What is the Feasibility Study of the SDLC model & why is this important?
+
+
+ 
+
+2. Write 5 advantages of Agile methodology.
+
+ 
+
+3. Write short notes on SDLC model phase
